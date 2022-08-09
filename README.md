@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A data scientist living it up in Phoenix, AZ</h3>
 
-- 🔭 I’m currently working on **the coursework from <a href="https://hacker.house/">Hacker House</a>**
+- 🔭 I’m currently working on **the book coursework from <a href="https://hacker.house/">Hacker House</a>**
 
 - 🌱 I’m about to graduate from **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
 
