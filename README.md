@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A data scientist living it up in Phoenix, AZ</h3>
 
-- 🔭 I’m currently working on **expanding my knowledge of machine learning models**
+- 🔭 I’m currently working on **:** **expanding my knowledge of machine learning models**
 
-- 🌱 I recently graduated from **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
+- 🌱 I recently graduated from **:** **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
 
-- 💬 Ask me about **virtual reality**
+- 💬 Ask me about **:** **virtual reality**
 
-- 📫 How to reach me **austinwood360@gmail.com**
+- 📫 How to reach me **:** **austinwood360@gmail.com**
 
-- ⚡ Fun fact **I'm a 1600 ELO chess player**
+- ⚡ Fun fact **:** **I'm a 1600 ELO chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
