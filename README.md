@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A data scientist living it up in Phoenix, AZ</h3>
 
-- 🔭 I’m currently working on **:** **expanding my knowledge of machine learning models**
+- 🔭 I’m currently working on **:** **writing my <a href="https://github.com/zdravoj/water-pump-classifier">Water Pump Classifier</a> project into a CRISP-DM style narrative**
 
 - 🌱 I recently graduated from **:** **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
 
