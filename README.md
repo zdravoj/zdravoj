@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A data scientist living it up in Phoenix, AZ</h3>
+<h3 align="center">The man, the myth, the data scientist</h3>
 
 - 🔭 I’m currently working on **:** **building my <a href=https://github.com/zdravoj/stock-bot>stock-bot</a> and optimizing <a href=https://github.com/zdravoj/loader-dispatch>loader-dispatch</a>**
 
