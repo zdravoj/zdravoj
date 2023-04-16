@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">The man, the myth, the data scientist</h3>
 
-- 🔭 I’m currently working on **:** **building my <a href=https://github.com/zdravoj/stock-bot>stock-bot</a> and optimizing <a href=https://github.com/zdravoj/loader-dispatch>loader-dispatch</a>**
+- 🔭 I’m currently working on **:** **strengthening my prompt engineering skills in <a href="https://github.com/zdravoj/prompting-galaga">prompting-galaga</a>**
 
 - 🌱 I recently graduated from **:** **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
 
