@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">The man, the myth, the data scientist</h3>
 
-- 🔭 I’m currently working on **:** **writing analysis reports and creating Tableau dashboards with <a href="https://github.com/zdravoj/data-science-foundations/tree/main/Supermarket_Sales">Supermarket Sales</a>**
+- 🔭 I’m currently working on **:** **optimizing <a href="https://github.com/zdravoj/loader-dispatch">loader-dispatch</a> and testing trading strategies in <a href="https://github.com/zdravoj/stock-bot">stock-bot</a>**
+
+- 📚 I'm currently reading **:** **<a href="https://www.oreilly.com/library/view/essential-math-for/9781098102920/">Essential Math for Data Science</a>, <a href="https://books.goalkicker.com/AlgorithmsBook/">Algorithms: Notes for Professionals</a>, and <a href="https://openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php">OpenIntro Statistics</a>**
 
 - 🌱 I recently graduated from **:** **the <a href="https://www.bloomtech.com/courses/data-science">Bloom Institute of Technology Data Science Course</a>**
 
